@@ -1,4 +1,4 @@
-This is a web development project for hacktoberfest made with HTML, CSS, JS and Python (flask).<br>
+This is a project for hacktoberfest made with HTML, CSS, JS and Python (flask).<br>
 Voyager website: NASA & SpaceX have successfully helped humanity establish a multi-planetary presence.<br>
 A space website that can be used as a template in future for space related topics.  
 
